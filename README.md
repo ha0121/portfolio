@@ -9,7 +9,7 @@
   <br />
   <br />
 
-  <h2 align="center">Annie - Personal Portfolio</h2>
+  <h2 align="center">Hào Nguyễn-Portfolio</h2>
 
   Annie is a fully responsive personal portfolio, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Annie** locally, run this command on your git bash:
+To run **Haonguyen** locally, run this command on your git bash:
 
 Linux and macOS:
 
