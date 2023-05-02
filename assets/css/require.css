@@ -295,7 +295,7 @@ body.loaded { overflow: visible; }
 }
 
 @keyframes loading {
-  100% { transform: rotate(0); }
+  0% { transform: rotate(0); }
   50% { transform: rotate(1turn); }
 }
 
