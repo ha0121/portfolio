@@ -286,8 +286,8 @@ body.loaded { overflow: visible; }
 .preloader.loaded { display: none; }
 
 .preloader-circle {
-  width: 60px;
-  height: 60px;
+  width: 90px;
+  height: 90px;
   border: 8px solid transparent;
   border-block-color: var(--white);
   border-radius: var(--radius-circle);
